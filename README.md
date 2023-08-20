@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I've been making commercial Python projects [**Python**] 🐍 since 2019.
+I've been making commercial [**Python**] 🐍 projects since 2019.
 I'm instersted in [**Stock Excahnge**] 💸,  [**Logistics**] 🚛 and [**E-commerce**] 🛒 sectors.
 I'd like to bring project which helps people everyday 🚀.
 
