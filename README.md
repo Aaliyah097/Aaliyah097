@@ -10,7 +10,7 @@ But usually projects are driven by [**Database-First Approach**].
 
 In Python my favourite library is [**abc**] 🥇.
 
-At spare time i run the blog about [**Software Architecture**] <https://arcane-switch.com> 📖.
+At spare time I run the blog about [**Software Architecture**] <https://arcane-switch.com> 📖.
 
 <!--
 **Aaliyah097/Aaliyah097** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
